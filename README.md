@@ -68,10 +68,10 @@ It contains flight details and corresponding prices.
 
 ## 📈 Visualizations
 ### 🔹 Prediction vs Actual Price
-![Prediction vs Actual Price](images/Actual vs Predicted.png)
+![Prediction vs Actual Price](images/Actual%20vs%20Predicted.png)
 
 ### 🔹 Feature Importance
-![Feature Importance](images/Feature Importance.png)
+![Feature Importance](images/Feature%20Importance.png)
 
 ---
 
@@ -82,4 +82,4 @@ Follow these steps to run the project locally:
 ### 1️⃣ Clone the repository
 ```bash
 git clone https://github.com/mchlrd/Flight-Price-Prediction-ML.git
-cd flight-price-prediction
+cd Flight-Price-Prediction-ML
